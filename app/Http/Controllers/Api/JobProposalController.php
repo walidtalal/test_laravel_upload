@@ -10,7 +10,7 @@ use Illuminate\Http\Request;
 class JobProposalController extends Controller
 {
     /**
-     * Display all proposals for each job.
+     * Display all proposals for each job........      .
      *
      * @return \Illuminate\Http\JsonResponse
      */
